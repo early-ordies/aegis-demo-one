@@ -11,7 +11,7 @@ var FROM_PUB = "";
 var TO_PUB = "";
 
 const DEFAULT_PUB = "0xc9D4cE26e48Faf1b2ff963c7127036920A331dC8";
-const DEFAULT_PRIV = "0xe200ff85ba59416e795b9f76b919d933022a5bb5e8ca8cd9c744285624a497fc";
+const DEFAULT_PRIV = "e200ff85ba59416e795b9f76b919d933022a5bb5e8ca8cd9c744285624a497fc";
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
